@@ -1,2 +1,3 @@
 # charchar
-DnD character generator
+DnD character generator.
+Under construction
